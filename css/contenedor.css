@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container{
+	padding: 10px;
+	align-items: center;
+	justify-content: center;
+}
+.container h2{
+	margin-top: 10px;
+}
+.contacto-div{
+	font-size: 20px;
+}

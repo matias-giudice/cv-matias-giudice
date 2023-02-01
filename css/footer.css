@@ -1,0 +1,38 @@
+footer{
+	background-color: #212529;
+	color: white;
+	margin: auto;
+	width: 100%;
+	display: inline-block;
+}
+.main{
+	display: flex;
+	justify-content: space-between;
+	padding: 1.8rem;
+}
+.footer-name{
+	text-transform: uppercase;
+}
+.footer-link-li{
+	list-style: none;
+	display: inline;
+	padding: 0 15px;
+}
+.footer-link{
+	text-decoration: none;
+	color: white;
+}
+.footer-link a:hover{
+	text-decoration: none;
+	color: white;
+}
+#icon{
+	margin-right: 15px;
+}
+.footer-line{
+	opacity: 0.8;
+}
+.footer-copyright{
+	padding: 1.2rem;
+	text-align: center;
+}
